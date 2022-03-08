@@ -1,6 +1,6 @@
 # Login en React con la librería Auth0
-![](docs/screenshot2.png)
 ![](docs/screenshot.png)
+![](docs/screenshot2.png)
 
 ## Estructura
 
